@@ -13,9 +13,9 @@ This project is a simple code for publishing Arduino events via a locally runnin
 
 ### Installation
 1. Clone the Repository: 
-git clone https://github.com/ertekinsener/mqtt_project.git
+git clone https://github.com/ertekinsener/MQTT-Project.git
 2. Navigate to the project folder: 
-cd mqtt_project
+cd MQTT-Project
 3. Install libraries as described on their respective GitHub pages.
 - To install the Paho MQTT C++ library, run:
   ```
